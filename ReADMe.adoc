@@ -1,7 +1,5 @@
 [[baizhijun-d0xx1ng]]
 = baizhijun-d0xx1ng (白治军信息总和)
-:china-dictatorship-media-base: https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master
-:china-dictatorship-media-base-ignore: {china-dictatorship-media-base}
 :docinfo:
 :idprefix:
 :idseparator: -
@@ -12,13 +10,9 @@
 :toc: macro
 :toclevels: 6
 :toc-title:
-https://github.com/Dimples1337/baizhijun1337[github (规范链接 canonical)] |
-
 
 
 反白治军宣传库。Anti-baozhijun propaganda.
-
-image::{china-dictatorship-media-base}/Xi_Jinping_The_Governance_of_China_photo.jpg[height=300]
 
 == About (关于)
 
